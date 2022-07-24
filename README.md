@@ -1,6 +1,6 @@
 # Dev House
 
-## Projeto de uma API utilizando NodeJS e MongoDB, com funções de cadastro e login de usuário, cadastro de casas permitindo editar e deletar as mesmas, junto com a criação e listagem de reservas para determinada casa.
+### Projeto de uma API utilizando NodeJS e MongoDB, com funções de cadastro e login de usuário, cadastro de casas permitindo editar e deletar as mesmas, junto com a criação e listagem de reservas para determinada casa.
 
 ![users-devhouse](https://user-images.githubusercontent.com/100718883/180660355-fb440bc4-d208-4b6e-aea3-1915808d1bc4.png)
 
